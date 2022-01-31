@@ -13,7 +13,7 @@ public class GitTestDemoApplication {
         System.out.println(i + 1);
         System.out.println(i + 2);
         System.out.println(i + "fenzhi1 ");
-
+        System.out.println(i+"github");
     }
 
 
